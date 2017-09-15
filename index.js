@@ -7,4 +7,6 @@ var Rx = require('rx');
 // require('./buffered-memoizing-observable');
 // require('./mapping-to-error');
 // require('./validate-token-in-external-store');
-require('./handling-event-stream-errors');
+// require('./handling-event-stream-errors');
+// require('./merging-two-streams');
+require('./array-of-observables');
